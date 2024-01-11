@@ -30,6 +30,15 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+$beamer-blue: rgb(32, 84, 166);
+$beamer-blue-hl: lighten($beamer-blue, 25%);
+$beamer-red: rgb(164, 19, 0);
+$beamer-green: rgb(0, 122, 32);
+$beamer-orange: rgb(207, 133, 3);
+$beamer-very-light-grey: rgb(249, 249, 249);
+$beamer-light-grey: rgb(150, 150, 150);
+$beamer-dark-grey: rgb(33, 33, 33);
+
 // Theme colors
 
 $code-bg-color-light: rgba($purple-color, 0.05);
