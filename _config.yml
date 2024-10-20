@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ross
 middle_name: M.
 last_name: Clarke
-email: rmc78@cam.ac.uk
+email: rmc78@cantab.ac.uk
 description: 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with a customised <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
